@@ -53,4 +53,12 @@ Prioritise OTT, ticketing, and dining cashback Dec 30–Jan 2	New Year 260% GMV 
 ```
 Data Generation  →  MySQL Cleaning  →  SQL Analysis  →  Power BI Dashboard  →  Portfolio
 ```
+## Dashboard Preview
+
+
+### Executive Dashboard
+![Executive Dashboard](images/Steel_page_1.PNG)
+
+### Operational Analytics Dashboard
+![Operations Dashboard](images/steel_page_2.PNG)
 
