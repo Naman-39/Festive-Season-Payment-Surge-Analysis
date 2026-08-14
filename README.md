@@ -29,12 +29,12 @@ Note: Tier 3 cities have a built-in 2-day behavioural lag relative to Tier 1 cit
 
 ## Key Findings
 #	Finding	Evidence
-1	Festival days generate 17% higher GMV vs regular days	Avg spend ₹185 higher per transaction on festival days
-2	Gifting surges 95% above average on Raksha Bandhan	Highest single-category spike across all 16 festivals
-3	Entertainment and Travel grow 260% GMV on New Year	Highest GMV growth % festival in dataset
-4	Tier 3 cities peak exactly 2 days after Tier 1 on Diwali	Validated across Diwali 2022 and Diwali 2023 using LAG()
-5	Medical is festival-immune — near-zero variance across all festivals	Statistical control group — proves other surges are genuine demand spikes
-6	Tier 1 leads in Bill Payment; Tier 2/3 lead in Groceries on non-festival days	Distinct spending behaviour between metro and non-metro India
+1 	Festival days generate 17% higher GMV vs regular days	Avg spend ₹185 higher per transaction on festival days
+2 	Gifting surges 95% above average on Raksha Bandhan	Highest single-category spike across all 16 festivals
+3 	Entertainment and Travel grow 260% GMV on New Year	Highest GMV growth % festival in dataset
+4 	Tier 3 cities peak exactly 2 days after Tier 1 on Diwali	Validated across Diwali 2022 and Diwali 2023 using LAG()
+5 	Medical is festival-immune — near-zero variance across all festivals	Statistical control group — proves other surges are genuine demand spikes
+6 	Tier 1 leads in Bill Payment; Tier 2/3 lead in Groceries on non-festival days	Distinct spending behaviour between metro and non-metro India
 
  ## Business Recommendations
 Recommendation	Based On
