@@ -57,8 +57,11 @@ Data Generation  →  MySQL Cleaning  →  SQL Analysis  →  Power BI Dashboard
 
 
 ### Executive Dashboard
-![Executive Dashboard](images/Steel_page_1.PNG)
+![Executive Dashboard](Images/phonepe_1.PNG)
 
-### Operational Analytics Dashboard
-![Operations Dashboard](images/steel_page_2.PNG)
+### Festivals Deep Dive Dashboard
+![Festival Deep Dive](Images/phonepe_2.PNG)
+
+### City & Tier Analysis Dashboard
+![City Tier](Images/phonepe_3.PNG)
 
